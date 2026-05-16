@@ -8,8 +8,8 @@ const path = require("path");
 const CONFIG = {
   repoPath: __dirname,
   branch: "main",
-  // commitEvery: "0 */2 * * *", 
-  commitEvery: "* * * * * *", // setiap detik (TESTING ONLY)
+  commitEvery: "0 */5 * * *", 
+  // commitEvery: "* * * * * *", 
   readmeFile: "README.md",
   logFile: "commit-log.json",
   timezone: "Asia/Jakarta",
