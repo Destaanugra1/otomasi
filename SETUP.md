@@ -63,7 +63,7 @@ Edit bagian `CONFIG` di `index.js` jika perlu:
 ```js
 const CONFIG = {
   branch: "main",          // ganti jika branch kamu "master"
-  commitEvery: "0 */2 * * *",  // ubah jadwal jika mau
+  commitEvery: "0 */5 * * *",  // ubah jadwal jika mau
   timezone: "Asia/Jakarta",    // sesuaikan timezone
 };
 ```
@@ -73,7 +73,7 @@ const CONFIG = {
 ## Langkah 4 — Test Sekali
 
 ```bash
-# Jalankan sekali untuk test (tidak nunggu cron)
+# Jalankan sekali untuk test (real commit + push, tidak nunggu cron)
 node index.js --dev
 ```
 

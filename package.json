@@ -1,7 +1,7 @@
 {
   "name": "otomasi-github",
   "version": "1.0.0",
-  "description": "Auto commit & push ke GitHub setiap 2 jam dengan pantun comedy",
+  "description": "Auto commit & push ke GitHub setiap 5 jam dengan puisi, pantun jenaka, dan quote",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",

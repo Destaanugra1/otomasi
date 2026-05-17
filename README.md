@@ -1,23 +1,19 @@
-# 🤖 Otomasi GitHub dengan Pantun Comedy
+# Otomasi GitHub: Puisi, Pantun, dan Quote
 
-> *Script ini berjalan otomatis setiap 2 jam dan mengupdate README dengan pantun comedy baru.*
-
----
-
-## 🎭 Pantun Terbaru
+## Pantun Jenaka Terbaru
 
 > Di server cepat, burung berkicau,
 > VPS berlari, seperti kuda,
 > Git bersahabat, meski kadang jenuh,
 > Tapi tak apa, coding tetap rasa suka.
 
-🤖 *Digenerate oleh GitHub Copilot AI (GitHub Models)* · *Tags: `ai-generated`*
+*Sumber: AI GitHub Models*  
+*Update: Sabtu, 16 Mei 2026 pukul 10.55.37*
 
----
-
-## 📊 Statistik
+## Ringkasan
 
 | Keterangan | Data |
+<<<<<<< HEAD
 |---|---|
 | 🔢 Total Commit Otomatis | **46** kali |
 | 🕐 Terakhir Update | `Minggu, 17 Mei 2026 pukul 20.00.02` |
@@ -52,3 +48,13 @@ Script ini punya **25 pantun comedy hardcoded** sebagai fallback jika AI tidak t
 ---
 
 *README ini diupdate otomatis oleh bot. Terakhir: Minggu, 17 Mei 2026 pukul 20.00.02*
+=======
+| --- | --- |
+| Interval | Setiap 5 jam |
+| Rotasi | Puisi -> Pantun Jenaka -> Quote |
+| Log aktif | 7 entri terakhir dalam 3 hari |
+| Total commit otomatis | 7 kali |
+| Timezone | Asia/Jakarta (WIB) |
+
+README ini digenerate otomatis dari `index.js`.
+>>>>>>> 25f44d1 (feat: diagram hover)
