@@ -1,14 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Puisi Terbaru
+## Pantun Jenaka Terbaru
 
-> Kembang melati mekar di pagi,
-> Aroma semerbak menyapa hati.
-> Cahaya mentari hangatkan bumi,
-> Harapan baru berselimut sepi.
+> Di pasar beli durian, persis di samping jeruk,
+> Bau durian menyengat, jeruk pun jadi kurus.
+> Ada kucing bertanya, "Kenapa aku tak kurus?"
+> "Kau makan seafood terus, kucing, bukan durian jus!"
 
 *Sumber: AI GitHub Models*  
-*Update: Rabu, 20 Mei 2026 pukul 05.00.02*
+*Update: Jumat, 22 Mei 2026 pukul 00.00.03*
 
 ## Ringkasan
 
@@ -16,8 +16,8 @@
 | --- | --- |
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
-| Log aktif | 17 entri terakhir dalam 3 hari |
-| Total commit otomatis | 58 kali |
+| Log aktif | 7 entri terakhir dalam 3 hari |
+| Total commit otomatis | 59 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
