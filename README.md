@@ -1,14 +1,11 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Pantun Jenaka Terbaru
+## Quote Terbaru
 
-> Di pasar ada jual kasur,
-> Ternyata bisa dipakai terbang,
-> Pakai karet, nyari petur,
-> Sangkanya bisa jadi kapal terbang.
+> Hidup itu seperti secangkir kopi, setiap tegukan menyimpan rasa yang berbeda-beda.
 
 *Sumber: AI GitHub Models*  
-*Update: Kamis, 4 Juni 2026 pukul 20.00.04*
+*Update: Jumat, 5 Juni 2026 pukul 00.00.03*
 
 ## Ringkasan
 
@@ -16,8 +13,8 @@
 | --- | --- |
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
-| Log aktif | 16 entri terakhir dalam 3 hari |
-| Total commit otomatis | 128 kali |
+| Log aktif | 15 entri terakhir dalam 3 hari |
+| Total commit otomatis | 129 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
