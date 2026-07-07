@@ -1,14 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Puisi Terbaru
+## Pantun Jenaka Terbaru
 
-> Di bawah sinar pagi yang lembut,
-> Rembulan pamit, bintang pun rindu,
-> Daun-daun bergoyang dalam getar,
-> Senyummu hangat, bahagia bertaut.
+> Naik sepeda ke pinggir kali,
+> Singgah sebentar membeli ketan,
+> Mukanya serius dari tadi pagi,
+> Padahal sendalnya beda pasangan.
 
-*Sumber: AI GitHub Models*  
-*Update: Selasa, 7 Juli 2026 pukul 15.00.03*
+*Sumber: koleksi lokal*  
+*Update: Selasa, 7 Juli 2026 pukul 20.00.00*
 
 ## Ringkasan
 
@@ -16,8 +16,8 @@
 | --- | --- |
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
-| Log aktif | 15 entri terakhir dalam 3 hari |
-| Total commit otomatis | 292 kali |
+| Log aktif | 16 entri terakhir dalam 3 hari |
+| Total commit otomatis | 293 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
