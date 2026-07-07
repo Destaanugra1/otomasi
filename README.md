@@ -1,14 +1,11 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Pantun Jenaka Terbaru
+## Quote Terbaru
 
-> Di pasar ada kedai bakso,
-> Dengan kuahnya bikin senang,
-> Si penjualnya ngeluh terus,
-> “Baksonya hilang, sialan, jangan!”
+> Hari yang tenang sering menyelesaikan lebih banyak daripada hari yang ribut.
 
-*Sumber: AI GitHub Models*  
-*Update: Selasa, 7 Juli 2026 pukul 05.00.03*
+*Sumber: koleksi lokal*  
+*Update: Selasa, 7 Juli 2026 pukul 10.00.00*
 
 ## Ringkasan
 
@@ -17,7 +14,7 @@
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
 | Log aktif | 16 entri terakhir dalam 3 hari |
-| Total commit otomatis | 290 kali |
+| Total commit otomatis | 291 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
