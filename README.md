@@ -1,14 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Puisi Terbaru
+## Pantun Jenaka Terbaru
 
-> Di bawah sinar rembulan, kita berbisik,
-> Angin malam membawa cerita tak terucap.
-> Bintang-bintang menari di langit yang tenang,
-> Senyummu adalah cahaya, hangat di hati ini.
+> Beli cilok dekat lampu merah,
+> Makannya sambil duduk di bangku,
+> Katanya mau hidup lebih megah,
+> Bangun siang saja masih berlaku.
 
-*Sumber: AI GitHub Models*  
-*Update: Rabu, 8 Juli 2026 pukul 05.00.03*
+*Sumber: koleksi lokal*  
+*Update: Rabu, 8 Juli 2026 pukul 10.00.00*
 
 ## Ringkasan
 
@@ -16,8 +16,8 @@
 | --- | --- |
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
-| Log aktif | 15 entri terakhir dalam 3 hari |
-| Total commit otomatis | 295 kali |
+| Log aktif | 16 entri terakhir dalam 3 hari |
+| Total commit otomatis | 296 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
