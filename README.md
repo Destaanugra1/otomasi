@@ -1,14 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Puisi Terbaru
+## Pantun Jenaka Terbaru
 
-> Di balik senja yang merona,
-> Angin berbisik lembutnya rasa,
-> Bintang-bintang mulai bertanya,
-> Tentang cinta yang tak pernah padam.
+> Naik sepeda ke pinggir kali,
+> Singgah sebentar membeli ketan,
+> Mukanya serius dari tadi pagi,
+> Padahal sendalnya beda pasangan.
 
-*Sumber: AI GitHub Models*  
-*Update: Jumat, 10 Juli 2026 pukul 00.00.03*
+*Sumber: koleksi lokal*  
+*Update: Jumat, 10 Juli 2026 pukul 05.00.01*
 
 ## Ringkasan
 
@@ -17,7 +17,7 @@
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
 | Log aktif | 16 entri terakhir dalam 3 hari |
-| Total commit otomatis | 304 kali |
+| Total commit otomatis | 305 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
