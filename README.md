@@ -1,14 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Puisi Terbaru
+## Pantun Jenaka Terbaru
 
-> Di bawah sinar senja yang lembut,
-> Kita berdansa di antara bayang-bayang,
-> Suara angin membisikkan harapan,
-> Cinta ini abadi, takkan pudar oleh waktu.
+> Pagi-pagi beli roti bakar,
+> Pulangnya mampir beli pepaya,
+> Kalau tertawa jangan ditahan sebentar,
+> Nanti dikira lagi latihan sandiwara.
 
-*Sumber: AI GitHub Models*  
-*Update: Minggu, 12 Juli 2026 pukul 10.00.03*
+*Sumber: koleksi lokal*  
+*Update: Minggu, 12 Juli 2026 pukul 15.00.00*
 
 ## Ringkasan
 
@@ -17,7 +17,7 @@
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
 | Log aktif | 15 entri terakhir dalam 3 hari |
-| Total commit otomatis | 316 kali |
+| Total commit otomatis | 317 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
