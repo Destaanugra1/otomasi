@@ -1,14 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Puisi Terbaru
+## Pantun Jenaka Terbaru
 
-> Di ujung senja, cahaya temaram,
-> Burung-burung pulang, menari di angkasa.
-> Hembusan angin, lembut dan tenang,
-> Menggenggam hati, menyejukkan rasa.
+> Naik sepeda ke pinggir kali,
+> Singgah sebentar membeli ketan,
+> Mukanya serius dari tadi pagi,
+> Padahal sendalnya beda pasangan.
 
-*Sumber: AI GitHub Models*  
-*Update: Senin, 13 Juli 2026 pukul 00.00.03*
+*Sumber: koleksi lokal*  
+*Update: Senin, 13 Juli 2026 pukul 05.00.00*
 
 ## Ringkasan
 
@@ -17,7 +17,7 @@
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
 | Log aktif | 16 entri terakhir dalam 3 hari |
-| Total commit otomatis | 319 kali |
+| Total commit otomatis | 320 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
