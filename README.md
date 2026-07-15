@@ -1,14 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Puisi Terbaru
+## Pantun Jenaka Terbaru
 
-> Di ufuk senja, embun bercerita,
-> Menghapus lelah pada hari yang purna,
-> Angin berbisik, membawakan rasa,
-> Kita berdua, dalam hangatnya asa.
+> Naik sepeda ke pinggir kali,
+> Singgah sebentar membeli ketan,
+> Mukanya serius dari tadi pagi,
+> Padahal sendalnya beda pasangan.
 
-*Sumber: AI GitHub Models*  
-*Update: Kamis, 16 Juli 2026 pukul 00.00.03*
+*Sumber: koleksi lokal*  
+*Update: Kamis, 16 Juli 2026 pukul 05.00.01*
 
 ## Ringkasan
 
@@ -17,7 +17,7 @@
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
 | Log aktif | 15 entri terakhir dalam 3 hari |
-| Total commit otomatis | 334 kali |
+| Total commit otomatis | 335 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
