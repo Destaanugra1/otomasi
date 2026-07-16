@@ -1,11 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Quote Terbaru
+## Puisi Terbaru
 
-> Tidak semua hal harus cepat, yang penting tidak berhenti.
+> Senja menaruh jingga di daun tua,
+> Burung pulang tanpa banyak suara,
+> Yang baik tidak selalu datang segera,
+> Tapi sering tinggal lebih lama dari luka.
 
 *Sumber: koleksi lokal*  
-*Update: Kamis, 16 Juli 2026 pukul 10.00.00*
+*Update: Kamis, 16 Juli 2026 pukul 15.00.01*
 
 ## Ringkasan
 
@@ -13,8 +16,8 @@
 | --- | --- |
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
-| Log aktif | 16 entri terakhir dalam 3 hari |
-| Total commit otomatis | 336 kali |
+| Log aktif | 15 entri terakhir dalam 3 hari |
+| Total commit otomatis | 337 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
