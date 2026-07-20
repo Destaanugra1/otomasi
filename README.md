@@ -1,14 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Puisi Terbaru
+## Pantun Jenaka Terbaru
 
-> Di bawah sinar mentari pagi,
-> Senyum embun menari di daun,
-> Kicau burung menyapa hati,
-> Hari baru, penuh harapan.
+> Naik sepeda ke pinggir kali,
+> Singgah sebentar membeli ketan,
+> Mukanya serius dari tadi pagi,
+> Padahal sendalnya beda pasangan.
 
-*Sumber: AI GitHub Models*  
-*Update: Senin, 20 Juli 2026 pukul 05.00.03*
+*Sumber: koleksi lokal*  
+*Update: Senin, 20 Juli 2026 pukul 10.00.00*
 
 ## Ringkasan
 
@@ -16,8 +16,8 @@
 | --- | --- |
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
-| Log aktif | 15 entri terakhir dalam 3 hari |
-| Total commit otomatis | 355 kali |
+| Log aktif | 16 entri terakhir dalam 3 hari |
+| Total commit otomatis | 356 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
