@@ -1,11 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Quote Terbaru
+## Puisi Terbaru
 
-> Kebahagiaan sederhana seringkali tersembunyi di balik senyuman orang-orang terkasih.
+> Senja menaruh jingga di daun tua,
+> Burung pulang tanpa banyak suara,
+> Yang baik tidak selalu datang segera,
+> Tapi sering tinggal lebih lama dari luka.
 
-*Sumber: AI GitHub Models*  
-*Update: Kamis, 23 Juli 2026 pukul 00.00.03*
+*Sumber: koleksi lokal*  
+*Update: Kamis, 23 Juli 2026 pukul 05.00.00*
 
 ## Ringkasan
 
@@ -13,8 +16,8 @@
 | --- | --- |
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
-| Log aktif | 15 entri terakhir dalam 3 hari |
-| Total commit otomatis | 369 kali |
+| Log aktif | 16 entri terakhir dalam 3 hari |
+| Total commit otomatis | 370 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
