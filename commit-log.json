@@ -1,18 +1,6 @@
 {
-  "totalCommit": 382,
+  "totalCommit": 383,
   "riwayat": [
-    {
-      "timestamp": 1784725200344,
-      "waktu": "Rabu, 22 Juli 2026 pukul 20.00.00",
-      "sumber": "koleksi lokal",
-      "jenis": "pantun",
-      "isi": [
-        "Pagi-pagi beli roti bakar,",
-        "Pulangnya mampir beli pepaya,",
-        "Kalau tertawa jangan ditahan sebentar,",
-        "Nanti dikira lagi latihan sandiwara."
-      ]
-    },
     {
       "timestamp": 1784739603003,
       "waktu": "Kamis, 23 Juli 2026 pukul 00.00.03",
@@ -164,6 +152,18 @@
         "Dedaunan berbisik mesra,",
         "Kicau burung menyapa hati,",
         "Hari baru, harapan raya."
+      ]
+    },
+    {
+      "timestamp": 1784984400451,
+      "waktu": "Sabtu, 25 Juli 2026 pukul 20.00.00",
+      "sumber": "koleksi lokal",
+      "jenis": "pantun",
+      "isi": [
+        "Naik sepeda ke pinggir kali,",
+        "Singgah sebentar membeli ketan,",
+        "Mukanya serius dari tadi pagi,",
+        "Padahal sendalnya beda pasangan."
       ]
     }
   ]
