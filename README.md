@@ -1,14 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Puisi Terbaru
+## Pantun Jenaka Terbaru
 
-> Senja menaruh jingga di daun tua,
-> Burung pulang tanpa banyak suara,
-> Yang baik tidak selalu datang segera,
-> Tapi sering tinggal lebih lama dari luka.
+> Pergi ke pasar beli ikan,
+> Tiba di rumah ikan hilang,
+> Ternyata telah dimakan,
+> Kucingku yang gemuk dan girang.
 
-*Sumber: koleksi lokal*  
-*Update: Minggu, 26 Juli 2026 pukul 20.00.00*
+*Sumber: AI GitHub Models*  
+*Update: Senin, 27 Juli 2026 pukul 00.00.02*
 
 ## Ringkasan
 
@@ -16,8 +16,8 @@
 | --- | --- |
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
-| Log aktif | 16 entri terakhir dalam 3 hari |
-| Total commit otomatis | 388 kali |
+| Log aktif | 15 entri terakhir dalam 3 hari |
+| Total commit otomatis | 389 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
