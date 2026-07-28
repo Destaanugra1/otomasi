@@ -1,14 +1,11 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Pantun Jenaka Terbaru
+## Quote Terbaru
 
-> Di pasar ada kucing pakai topi,
-> Lari-lari sambil bawa sepotong roti,
-> Katanya mau jadi pemandu wisata,
-> Tapi takut sama anjing yang bercanda!
+> Tidak semua hal harus cepat, yang penting tidak berhenti.
 
-*Sumber: AI GitHub Models*  
-*Update: Selasa, 28 Juli 2026 pukul 20.00.04*
+*Sumber: koleksi lokal*  
+*Update: Rabu, 29 Juli 2026 pukul 00.00.00*
 
 ## Ringkasan
 
@@ -16,8 +13,8 @@
 | --- | --- |
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
-| Log aktif | 15 entri terakhir dalam 3 hari |
-| Total commit otomatis | 398 kali |
+| Log aktif | 16 entri terakhir dalam 3 hari |
+| Total commit otomatis | 399 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
