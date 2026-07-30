@@ -1,11 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Quote Terbaru
+## Puisi Terbaru
 
-> Hidup ini seperti secangkir kopi, nikmati setiap tetesnya meski ada pahitnya.
+> Pagi turun pelan di ujung jendela,
+> Angin singgah membawa kabar sederhana,
+> Tidak semua jalan harus tergesa,
+> Kadang tenang adalah cara hati bernyawa.
 
-*Sumber: AI GitHub Models*  
-*Update: Kamis, 30 Juli 2026 pukul 05.00.02*
+*Sumber: koleksi lokal*  
+*Update: Kamis, 30 Juli 2026 pukul 10.00.00*
 
 ## Ringkasan
 
@@ -13,8 +16,8 @@
 | --- | --- |
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
-| Log aktif | 15 entri terakhir dalam 3 hari |
-| Total commit otomatis | 405 kali |
+| Log aktif | 16 entri terakhir dalam 3 hari |
+| Total commit otomatis | 406 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
