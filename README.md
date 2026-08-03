@@ -1,14 +1,11 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Pantun Jenaka Terbaru
+## Quote Terbaru
 
-> Naik sepeda ke pinggir kali,
-> Singgah sebentar membeli ketan,
-> Mukanya serius dari tadi pagi,
-> Padahal sendalnya beda pasangan.
+> Tidak semua hal harus cepat, yang penting tidak berhenti.
 
 *Sumber: koleksi lokal*  
-*Update: Senin, 3 Agustus 2026 pukul 20.00.01*
+*Update: Selasa, 4 Agustus 2026 pukul 00.00.01*
 
 ## Ringkasan
 
@@ -17,7 +14,7 @@
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
 | Log aktif | 15 entri terakhir dalam 3 hari |
-| Total commit otomatis | 428 kali |
+| Total commit otomatis | 429 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
