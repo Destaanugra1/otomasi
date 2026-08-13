@@ -1,18 +1,6 @@
 {
-  "totalCommit": 478,
+  "totalCommit": 479,
   "riwayat": [
-    {
-      "timestamp": 1786366800340,
-      "waktu": "Senin, 10 Agustus 2026 pukul 20.00.00",
-      "sumber": "koleksi lokal",
-      "jenis": "puisi",
-      "isi": [
-        "Hujan kecil jatuh di halaman rumah,",
-        "Tanah basah menyimpan harum yang ramah,",
-        "Kalau hari ini langkah terasa susah,",
-        "Besok bisa jadi datang lebih indah."
-      ]
-    },
     {
       "timestamp": 1786381200865,
       "waktu": "Selasa, 11 Agustus 2026 pukul 00.00.00",
@@ -176,6 +164,18 @@
         "Angin singgah membawa kabar sederhana,",
         "Tidak semua jalan harus tergesa,",
         "Kadang tenang adalah cara hati bernyawa."
+      ]
+    },
+    {
+      "timestamp": 1786640400592,
+      "waktu": "Jumat, 14 Agustus 2026 pukul 00.00.00",
+      "sumber": "koleksi lokal",
+      "jenis": "pantun",
+      "isi": [
+        "Naik sepeda ke pinggir kali,",
+        "Singgah sebentar membeli ketan,",
+        "Mukanya serius dari tadi pagi,",
+        "Padahal sendalnya beda pasangan."
       ]
     }
   ]
