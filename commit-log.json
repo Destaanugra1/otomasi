@@ -1,18 +1,6 @@
 {
-  "totalCommit": 481,
+  "totalCommit": 482,
   "riwayat": [
-    {
-      "timestamp": 1786417201752,
-      "waktu": "Selasa, 11 Agustus 2026 pukul 10.00.01",
-      "sumber": "koleksi lokal",
-      "jenis": "puisi",
-      "isi": [
-        "Pagi turun pelan di ujung jendela,",
-        "Angin singgah membawa kabar sederhana,",
-        "Tidak semua jalan harus tergesa,",
-        "Kadang tenang adalah cara hati bernyawa."
-      ]
-    },
     {
       "timestamp": 1786435201248,
       "waktu": "Selasa, 11 Agustus 2026 pukul 15.00.01",
@@ -176,6 +164,18 @@
         "Burung pulang tanpa banyak suara,",
         "Yang baik tidak selalu datang segera,",
         "Tapi sering tinggal lebih lama dari luka."
+      ]
+    },
+    {
+      "timestamp": 1786694401210,
+      "waktu": "Jumat, 14 Agustus 2026 pukul 15.00.01",
+      "sumber": "koleksi lokal",
+      "jenis": "pantun",
+      "isi": [
+        "Beli cilok dekat lampu merah,",
+        "Makannya sambil duduk di bangku,",
+        "Katanya mau hidup lebih megah,",
+        "Bangun siang saja masih berlaku."
       ]
     }
   ]
