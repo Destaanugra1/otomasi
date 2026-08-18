@@ -1,14 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Puisi Terbaru
+## Pantun Jenaka Terbaru
 
-> Senja menaruh jingga di daun tua,
-> Burung pulang tanpa banyak suara,
-> Yang baik tidak selalu datang segera,
-> Tapi sering tinggal lebih lama dari luka.
+> Beli cilok dekat lampu merah,
+> Makannya sambil duduk di bangku,
+> Katanya mau hidup lebih megah,
+> Bangun siang saja masih berlaku.
 
 *Sumber: koleksi lokal*  
-*Update: Selasa, 18 Agustus 2026 pukul 15.00.01*
+*Update: Selasa, 18 Agustus 2026 pukul 20.00.01*
 
 ## Ringkasan
 
@@ -16,8 +16,8 @@
 | --- | --- |
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
-| Log aktif | 16 entri terakhir dalam 3 hari |
-| Total commit otomatis | 502 kali |
+| Log aktif | 15 entri terakhir dalam 3 hari |
+| Total commit otomatis | 503 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
