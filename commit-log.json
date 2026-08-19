@@ -1,30 +1,6 @@
 {
-  "totalCommit": 505,
+  "totalCommit": 506,
   "riwayat": [
-    {
-      "timestamp": 1786831201211,
-      "waktu": "Minggu, 16 Agustus 2026 pukul 05.00.01",
-      "sumber": "koleksi lokal",
-      "jenis": "puisi",
-      "isi": [
-        "Pagi turun pelan di ujung jendela,",
-        "Angin singgah membawa kabar sederhana,",
-        "Tidak semua jalan harus tergesa,",
-        "Kadang tenang adalah cara hati bernyawa."
-      ]
-    },
-    {
-      "timestamp": 1786849200794,
-      "waktu": "Minggu, 16 Agustus 2026 pukul 10.00.00",
-      "sumber": "koleksi lokal",
-      "jenis": "pantun",
-      "isi": [
-        "Naik sepeda ke pinggir kali,",
-        "Singgah sebentar membeli ketan,",
-        "Mukanya serius dari tadi pagi,",
-        "Padahal sendalnya beda pasangan."
-      ]
-    },
     {
       "timestamp": 1786867200605,
       "waktu": "Minggu, 16 Agustus 2026 pukul 15.00.00",
@@ -176,6 +152,18 @@
         "Angin singgah membawa kabar sederhana,",
         "Tidak semua jalan harus tergesa,",
         "Kadang tenang adalah cara hati bernyawa."
+      ]
+    },
+    {
+      "timestamp": 1787108401092,
+      "waktu": "Rabu, 19 Agustus 2026 pukul 10.00.01",
+      "sumber": "koleksi lokal",
+      "jenis": "pantun",
+      "isi": [
+        "Pagi-pagi beli roti bakar,",
+        "Pulangnya mampir beli pepaya,",
+        "Kalau tertawa jangan ditahan sebentar,",
+        "Nanti dikira lagi latihan sandiwara."
       ]
     }
   ]
