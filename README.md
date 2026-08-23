@@ -1,11 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Quote Terbaru
+## Puisi Terbaru
 
-> Tidak semua hal harus cepat, yang penting tidak berhenti.
+> Pagi turun pelan di ujung jendela,
+> Angin singgah membawa kabar sederhana,
+> Tidak semua jalan harus tergesa,
+> Kadang tenang adalah cara hati bernyawa.
 
 *Sumber: koleksi lokal*  
-*Update: Minggu, 23 Agustus 2026 pukul 20.00.00*
+*Update: Senin, 24 Agustus 2026 pukul 00.00.00*
 
 ## Ringkasan
 
@@ -14,7 +17,7 @@
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
 | Log aktif | 16 entri terakhir dalam 3 hari |
-| Total commit otomatis | 528 kali |
+| Total commit otomatis | 529 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
