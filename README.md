@@ -1,11 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Quote Terbaru
+## Puisi Terbaru
 
-> Hari yang tenang sering menyelesaikan lebih banyak daripada hari yang ribut.
+> Senja menaruh jingga di daun tua,
+> Burung pulang tanpa banyak suara,
+> Yang baik tidak selalu datang segera,
+> Tapi sering tinggal lebih lama dari luka.
 
 *Sumber: koleksi lokal*  
-*Update: Minggu, 23 Agustus 2026 pukul 05.00.00*
+*Update: Minggu, 23 Agustus 2026 pukul 10.00.00*
 
 ## Ringkasan
 
@@ -13,8 +16,8 @@
 | --- | --- |
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
-| Log aktif | 16 entri terakhir dalam 3 hari |
-| Total commit otomatis | 525 kali |
+| Log aktif | 15 entri terakhir dalam 3 hari |
+| Total commit otomatis | 526 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
