@@ -1,14 +1,11 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Pantun Jenaka Terbaru
+## Quote Terbaru
 
-> Pagi-pagi beli roti bakar,
-> Pulangnya mampir beli pepaya,
-> Kalau tertawa jangan ditahan sebentar,
-> Nanti dikira lagi latihan sandiwara.
+> Hari yang tenang sering menyelesaikan lebih banyak daripada hari yang ribut.
 
 *Sumber: koleksi lokal*  
-*Update: Senin, 24 Agustus 2026 pukul 20.00.00*
+*Update: Selasa, 25 Agustus 2026 pukul 00.00.00*
 
 ## Ringkasan
 
@@ -17,7 +14,7 @@
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
 | Log aktif | 16 entri terakhir dalam 3 hari |
-| Total commit otomatis | 533 kali |
+| Total commit otomatis | 534 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
