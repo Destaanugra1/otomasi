@@ -1,14 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Puisi Terbaru
+## Pantun Jenaka Terbaru
 
-> Pagi turun pelan di ujung jendela,
-> Angin singgah membawa kabar sederhana,
-> Tidak semua jalan harus tergesa,
-> Kadang tenang adalah cara hati bernyawa.
+> Pagi-pagi beli roti bakar,
+> Pulangnya mampir beli pepaya,
+> Kalau tertawa jangan ditahan sebentar,
+> Nanti dikira lagi latihan sandiwara.
 
 *Sumber: koleksi lokal*  
-*Update: Selasa, 25 Agustus 2026 pukul 05.00.00*
+*Update: Selasa, 25 Agustus 2026 pukul 10.00.00*
 
 ## Ringkasan
 
@@ -17,7 +17,7 @@
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
 | Log aktif | 15 entri terakhir dalam 3 hari |
-| Total commit otomatis | 535 kali |
+| Total commit otomatis | 536 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
