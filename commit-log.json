@@ -1,18 +1,6 @@
 {
-  "totalCommit": 547,
+  "totalCommit": 548,
   "riwayat": [
-    {
-      "timestamp": 1787576400245,
-      "waktu": "Senin, 24 Agustus 2026 pukul 20.00.00",
-      "sumber": "koleksi lokal",
-      "jenis": "pantun",
-      "isi": [
-        "Pagi-pagi beli roti bakar,",
-        "Pulangnya mampir beli pepaya,",
-        "Kalau tertawa jangan ditahan sebentar,",
-        "Nanti dikira lagi latihan sandiwara."
-      ]
-    },
     {
       "timestamp": 1787590800742,
       "waktu": "Selasa, 25 Agustus 2026 pukul 00.00.00",
@@ -164,6 +152,18 @@
         "Burung pulang tanpa banyak suara,",
         "Yang baik tidak selalu datang segera,",
         "Tapi sering tinggal lebih lama dari luka."
+      ]
+    },
+    {
+      "timestamp": 1787835600260,
+      "waktu": "Kamis, 27 Agustus 2026 pukul 20.00.00",
+      "sumber": "koleksi lokal",
+      "jenis": "pantun",
+      "isi": [
+        "Pagi-pagi beli roti bakar,",
+        "Pulangnya mampir beli pepaya,",
+        "Kalau tertawa jangan ditahan sebentar,",
+        "Nanti dikira lagi latihan sandiwara."
       ]
     }
   ]
