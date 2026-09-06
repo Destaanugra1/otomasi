@@ -1,14 +1,14 @@
 # Otomasi GitHub: Puisi, Pantun, dan Quote
 
-## Puisi Terbaru
+## Pantun Jenaka Terbaru
 
-> Hujan kecil jatuh di halaman rumah,
-> Tanah basah menyimpan harum yang ramah,
-> Kalau hari ini langkah terasa susah,
-> Besok bisa jadi datang lebih indah.
+> Beli cilok dekat lampu merah,
+> Makannya sambil duduk di bangku,
+> Katanya mau hidup lebih megah,
+> Bangun siang saja masih berlaku.
 
 *Sumber: koleksi lokal*  
-*Update: Minggu, 6 September 2026 pukul 20.00.00*
+*Update: Senin, 7 September 2026 pukul 00.00.00*
 
 ## Ringkasan
 
@@ -16,8 +16,8 @@
 | --- | --- |
 | Interval | Setiap 5 jam |
 | Rotasi | Puisi -> Pantun Jenaka -> Quote |
-| Log aktif | 16 entri terakhir dalam 3 hari |
-| Total commit otomatis | 598 kali |
+| Log aktif | 15 entri terakhir dalam 3 hari |
+| Total commit otomatis | 599 kali |
 | Timezone | Asia/Jakarta (WIB) |
 
 README ini digenerate otomatis dari `index.js`.
