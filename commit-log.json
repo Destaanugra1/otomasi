@@ -1,18 +1,6 @@
 {
-  "totalCommit": 601,
+  "totalCommit": 602,
   "riwayat": [
-    {
-      "timestamp": 1788490800950,
-      "waktu": "Jumat, 4 September 2026 pukul 10.00.00",
-      "sumber": "koleksi lokal",
-      "jenis": "puisi",
-      "isi": [
-        "Senja menaruh jingga di daun tua,",
-        "Burung pulang tanpa banyak suara,",
-        "Yang baik tidak selalu datang segera,",
-        "Tapi sering tinggal lebih lama dari luka."
-      ]
-    },
     {
       "timestamp": 1788508800757,
       "waktu": "Jumat, 4 September 2026 pukul 15.00.00",
@@ -176,6 +164,18 @@
         "Tanah basah menyimpan harum yang ramah,",
         "Kalau hari ini langkah terasa susah,",
         "Besok bisa jadi datang lebih indah."
+      ]
+    },
+    {
+      "timestamp": 1788768000531,
+      "waktu": "Senin, 7 September 2026 pukul 15.00.00",
+      "sumber": "koleksi lokal",
+      "jenis": "pantun",
+      "isi": [
+        "Beli cilok dekat lampu merah,",
+        "Makannya sambil duduk di bangku,",
+        "Katanya mau hidup lebih megah,",
+        "Bangun siang saja masih berlaku."
       ]
     }
   ]
