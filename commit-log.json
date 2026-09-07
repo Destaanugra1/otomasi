@@ -1,18 +1,6 @@
 {
-  "totalCommit": 604,
+  "totalCommit": 605,
   "riwayat": [
-    {
-      "timestamp": 1788559200527,
-      "waktu": "Sabtu, 5 September 2026 pukul 05.00.00",
-      "sumber": "koleksi lokal",
-      "jenis": "pantun",
-      "isi": [
-        "Naik sepeda ke pinggir kali,",
-        "Singgah sebentar membeli ketan,",
-        "Mukanya serius dari tadi pagi,",
-        "Padahal sendalnya beda pasangan."
-      ]
-    },
     {
       "timestamp": 1788577200606,
       "waktu": "Sabtu, 5 September 2026 pukul 10.00.00",
@@ -164,6 +152,18 @@
         "Burung pulang tanpa banyak suara,",
         "Yang baik tidak selalu datang segera,",
         "Tapi sering tinggal lebih lama dari luka."
+      ]
+    },
+    {
+      "timestamp": 1788818400587,
+      "waktu": "Selasa, 8 September 2026 pukul 05.00.00",
+      "sumber": "koleksi lokal",
+      "jenis": "pantun",
+      "isi": [
+        "Naik sepeda ke pinggir kali,",
+        "Singgah sebentar membeli ketan,",
+        "Mukanya serius dari tadi pagi,",
+        "Padahal sendalnya beda pasangan."
       ]
     }
   ]
