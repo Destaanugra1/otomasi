@@ -1,30 +1,6 @@
 {
-  "totalCommit": 667,
+  "totalCommit": 668,
   "riwayat": [
-    {
-      "timestamp": 1789632000573,
-      "waktu": "Kamis, 17 September 2026 pukul 15.00.00",
-      "sumber": "koleksi lokal",
-      "jenis": "puisi",
-      "isi": [
-        "Senja menaruh jingga di daun tua,",
-        "Burung pulang tanpa banyak suara,",
-        "Yang baik tidak selalu datang segera,",
-        "Tapi sering tinggal lebih lama dari luka."
-      ]
-    },
-    {
-      "timestamp": 1789650000244,
-      "waktu": "Kamis, 17 September 2026 pukul 20.00.00",
-      "sumber": "koleksi lokal",
-      "jenis": "pantun",
-      "isi": [
-        "Naik sepeda ke pinggir kali,",
-        "Singgah sebentar membeli ketan,",
-        "Mukanya serius dari tadi pagi,",
-        "Padahal sendalnya beda pasangan."
-      ]
-    },
     {
       "timestamp": 1789664400779,
       "waktu": "Jumat, 18 September 2026 pukul 00.00.00",
@@ -176,6 +152,18 @@
         "Tanah basah menyimpan harum yang ramah,",
         "Kalau hari ini langkah terasa susah,",
         "Besok bisa jadi datang lebih indah."
+      ]
+    },
+    {
+      "timestamp": 1789909200275,
+      "waktu": "Minggu, 20 September 2026 pukul 20.00.00",
+      "sumber": "koleksi lokal",
+      "jenis": "pantun",
+      "isi": [
+        "Pagi-pagi beli roti bakar,",
+        "Pulangnya mampir beli pepaya,",
+        "Kalau tertawa jangan ditahan sebentar,",
+        "Nanti dikira lagi latihan sandiwara."
       ]
     }
   ]
