@@ -1,30 +1,6 @@
 {
-  "totalCommit": 703,
+  "totalCommit": 704,
   "riwayat": [
-    {
-      "timestamp": 1790254800805,
-      "waktu": "Kamis, 24 September 2026 pukul 20.00.00",
-      "sumber": "koleksi lokal",
-      "jenis": "puisi",
-      "isi": [
-        "Hujan kecil jatuh di halaman rumah,",
-        "Tanah basah menyimpan harum yang ramah,",
-        "Kalau hari ini langkah terasa susah,",
-        "Besok bisa jadi datang lebih indah."
-      ]
-    },
-    {
-      "timestamp": 1790269200038,
-      "waktu": "Jumat, 25 September 2026 pukul 00.00.00",
-      "sumber": "koleksi lokal",
-      "jenis": "pantun",
-      "isi": [
-        "Pagi-pagi beli roti bakar,",
-        "Pulangnya mampir beli pepaya,",
-        "Kalau tertawa jangan ditahan sebentar,",
-        "Nanti dikira lagi latihan sandiwara."
-      ]
-    },
     {
       "timestamp": 1790287200239,
       "waktu": "Jumat, 25 September 2026 pukul 05.00.00",
@@ -176,6 +152,18 @@
         "Tanah basah menyimpan harum yang ramah,",
         "Kalau hari ini langkah terasa susah,",
         "Besok bisa jadi datang lebih indah."
+      ]
+    },
+    {
+      "timestamp": 1790528400182,
+      "waktu": "Senin, 28 September 2026 pukul 00.00.00",
+      "sumber": "koleksi lokal",
+      "jenis": "pantun",
+      "isi": [
+        "Pagi-pagi beli roti bakar,",
+        "Pulangnya mampir beli pepaya,",
+        "Kalau tertawa jangan ditahan sebentar,",
+        "Nanti dikira lagi latihan sandiwara."
       ]
     }
   ]
