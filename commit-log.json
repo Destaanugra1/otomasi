@@ -1,18 +1,6 @@
 {
-  "totalCommit": 706,
+  "totalCommit": 707,
   "riwayat": [
-    {
-      "timestamp": 1790305200599,
-      "waktu": "Jumat, 25 September 2026 pukul 10.00.00",
-      "sumber": "koleksi lokal",
-      "jenis": "puisi",
-      "isi": [
-        "Pagi turun pelan di ujung jendela,",
-        "Angin singgah membawa kabar sederhana,",
-        "Tidak semua jalan harus tergesa,",
-        "Kadang tenang adalah cara hati bernyawa."
-      ]
-    },
     {
       "timestamp": 1790323201067,
       "waktu": "Jumat, 25 September 2026 pukul 15.00.01",
@@ -176,6 +164,18 @@
         "Angin singgah membawa kabar sederhana,",
         "Tidak semua jalan harus tergesa,",
         "Kadang tenang adalah cara hati bernyawa."
+      ]
+    },
+    {
+      "timestamp": 1790582400243,
+      "waktu": "Senin, 28 September 2026 pukul 15.00.00",
+      "sumber": "koleksi lokal",
+      "jenis": "pantun",
+      "isi": [
+        "Naik sepeda ke pinggir kali,",
+        "Singgah sebentar membeli ketan,",
+        "Mukanya serius dari tadi pagi,",
+        "Padahal sendalnya beda pasangan."
       ]
     }
   ]
