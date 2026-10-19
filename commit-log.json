@@ -1,30 +1,6 @@
 {
-  "totalCommit": 814,
+  "totalCommit": 815,
   "riwayat": [
-    {
-      "timestamp": 1792170000738,
-      "waktu": "Sabtu, 17 Oktober 2026 pukul 00.00.00",
-      "sumber": "koleksi lokal",
-      "jenis": "puisi",
-      "isi": [
-        "Hujan kecil jatuh di halaman rumah,",
-        "Tanah basah menyimpan harum yang ramah,",
-        "Kalau hari ini langkah terasa susah,",
-        "Besok bisa jadi datang lebih indah."
-      ]
-    },
-    {
-      "timestamp": 1792188000193,
-      "waktu": "Sabtu, 17 Oktober 2026 pukul 05.00.00",
-      "sumber": "koleksi lokal",
-      "jenis": "pantun",
-      "isi": [
-        "Beli cilok dekat lampu merah,",
-        "Makannya sambil duduk di bangku,",
-        "Katanya mau hidup lebih megah,",
-        "Bangun siang saja masih berlaku."
-      ]
-    },
     {
       "timestamp": 1792206000477,
       "waktu": "Sabtu, 17 Oktober 2026 pukul 10.00.00",
@@ -176,6 +152,18 @@
         "Burung pulang tanpa banyak suara,",
         "Yang baik tidak selalu datang segera,",
         "Tapi sering tinggal lebih lama dari luka."
+      ]
+    },
+    {
+      "timestamp": 1792447200783,
+      "waktu": "Selasa, 20 Oktober 2026 pukul 05.00.00",
+      "sumber": "koleksi lokal",
+      "jenis": "pantun",
+      "isi": [
+        "Pagi-pagi beli roti bakar,",
+        "Pulangnya mampir beli pepaya,",
+        "Kalau tertawa jangan ditahan sebentar,",
+        "Nanti dikira lagi latihan sandiwara."
       ]
     }
   ]
